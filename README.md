@@ -55,8 +55,8 @@ Open the Jupyter notebooks in the `SingleAgent` and `MultiAgent` directories to 
 
 ## References
 Major inspirations were taken from the below two github repos.
-https://github.com/kinfey/MultiAIAgent/tree/main
-https://microsoft.github.io/autogen/0.2/docs/Examples/
+- https://github.com/kinfey/MultiAIAgent/tree/main
+- https://microsoft.github.io/autogen/0.2/docs/Examples/
 
 ## License
 
