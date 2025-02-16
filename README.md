@@ -38,11 +38,11 @@ The `MultiAgent` directory contains implementations of multi-agent systems.
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/kishore-loga/azdev-multiagent.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd <repository-directory>
+    cd azdev-multiagent
     ```
 3. Install the required dependencies:
     ```bash
